@@ -1,0 +1,4 @@
+enum OptionChallengeEnumerator {
+  home,
+  park,
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "383153108052",
+    "firebase_url": "https://superkids-e2398-default-rtdb.firebaseio.com",
+    "project_id": "superkids-e2398",
+    "storage_bucket": "superkids-e2398.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383153108052:android:22f82d90c8be0ee63e69c1",
+        "android_client_info": {
+          "package_name": "com.aplicativo.superkids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383153108052-h7behj9og99ei5s7tl1nlmmis0rilg65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aplicativo.superkids",
+            "certificate_hash": "17670b7b74fd5086b8651abf8441aa5d99c15915"
+          }
+        },
+        {
+          "client_id": "383153108052-86bmujghmj0enb4fknid36kjo9aq579a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYPpDqO638kLgs0rUd2_rLTm71cLRZOmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383153108052-86bmujghmj0enb4fknid36kjo9aq579a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
