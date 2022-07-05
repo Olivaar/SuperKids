@@ -23,7 +23,7 @@ Armazenamento de Código: GitHub
 
 Basta entrar em contato em https://www.linkedin.com/in/olivar-neemias-5440001a2/ ou https://www.instagram.com/olivar_baloi22/?hl=pt-br e solicitar via inbox o apk do projeto, ou se preferir pode seguir os seguintes passos:
   1- Instalar a versão mais atualizada da Linguagem Dart disponível em: https://dart.dev/tutorials/server/get-started
-  2- Instalar a versão mais atualizada do Framewor Flutter disponível em: https://docs.flutter.dev/get-started/install
+  2- Instalar a versão mais atualizada do Framework Flutter disponível em: https://docs.flutter.dev/get-started/install
   3- Clonar o projeto e abrir em uma IDE de sua preferência
   4- Executar o código da aplicação
   
