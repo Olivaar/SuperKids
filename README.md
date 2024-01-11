@@ -35,10 +35,10 @@ Augusto Ribeiro: Programador https://www.linkedin.com/in/augusto-ribeiro-5610b29
 Vitor Ramos: Programador https://www.instagram.com/vitorramosferreira.x/?hl=pt-br
 Max Alves: Designer https://www.instagram.com/m.artes._/?hl=pt-br=
 
-Mariana Mesquita: Psicóloga e Diretora Educacional
-Robson Divino: Profissional de Educação Física
-Leandro Farias: Profissional de Educação Física
-Divany Lacerda: Profissional de Educação Física
-Ludmilla Mota: Psicóloga
-Osmar Reis: Psicólogo
-Nathane Barbosa: Nutricionista
+Mariana Mesquita: Psicóloga e Diretora Educacional;
+Robson Divino: Profissional de Educação Física;
+Leandro Farias: Profissional de Educação Física;
+Divany Lacerda: Profissional de Educação Física;
+Ludmilla Mota: Psicóloga;
+Osmar Reis: Psicólogo;
+Nathane Barbosa: Nutricionista;
